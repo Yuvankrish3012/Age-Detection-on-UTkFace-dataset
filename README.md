@@ -29,7 +29,8 @@ pip install tensorflow opencv-python numpy matplotlib notebook
 📸 Input
 Sample image used for prediction:
 
-![1_0_0_20161219140642920 jpg chip](https://github.com/user-attachments/assets/19b5acf1-c829-4387-a7a6-c5ef90f9acf6)
+![1_0_0_20161219140642920 jpg chip](https://github.com/user-attachments/assets/e50d5a32-56b9-4176-bb23-0e78fd97d3e9)
+
 
 
 🧠 Model Execution
